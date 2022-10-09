@@ -1,9 +1,14 @@
 # AppliedDataScienceFinalProject
 Objectives
+
 This project aims to create an interactive and user-friendly interface python and flask and implements machine learning to analyze the sentiment of twitter posts as well as the ability to provide a generic interface that returns the sentiment in three categories: positive, neutral and negative.
+
 Usefulness
+
 The main driver for this project is to give organizations the ability to analyze their brand and their presence on twitter social media platform and have clear view on their client’s feedback in real time. Ideally, the output of this project will be used by marketing and\or communication teams to measure effectiveness of marketing campaigns or to measure the effectiveness of new and existing services by understanding what their audience think of their campaigns and services.
+
 Dataset  
+
 The data set that will be used to train and validate the model is the “sentiment140” dataset, it was created first in 2009 by Alec Go, Richa Bhayani, and Lei Huang, who were Computer Science graduate students at Stanford University as a class project from Stanford University.
 The dataset contains 1,600,000 tweets extracted using the twitter API. The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment.
 The dataset contains the following 6 fields:
